@@ -1,3 +1,2 @@
 # meals_app
-
-A new Flutter project.
+A simple meals app made with Flutter and Dart. Search function included. Meals when clicked on show recipes. 
