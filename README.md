@@ -1,2 +1,3 @@
-# Meals-App
-Simple meals app created with Dart and Flutter.
+# meals_app
+
+A new Flutter project.
